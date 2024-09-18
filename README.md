@@ -7,4 +7,10 @@
 - 創建Repository
 - 與別人共用Repository
 - clone repository 到自己的電腦
+- 簡易指令 git branch / git push /git pull
+    - git add "file name"
+    - git commit -m "message"
+    - git push
 - 嘗試提交第一個 PR (Pull Request)
+- github codespaces 教學
+- 在 VSCode 使用 GUI 進行 git 操作
