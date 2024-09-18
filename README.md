@@ -4,3 +4,4 @@
 * 下載git
 * 創建Repository
 * 與別人共用Repository
+* clone repository 到自己的電腦
